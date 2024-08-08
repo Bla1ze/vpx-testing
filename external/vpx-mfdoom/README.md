@@ -1,6 +1,6 @@
 # MF DOOM (GOILL773 2024)
 
-![Table Preview](https://vpuniverse.com/screenshots/monthly_2024_07/MFDOOM-Cab.png.5b599b4e24ea10121c13aba1af1562ed.png)
+![Table Preview](https://github.com/Bla1ze/vpx-images/blob/main/vpx-mfdoom.png)
 
 Author: [VPinWorkShop](https://vpuniverse.com/profile/40692-vpinworkshop/)
 
