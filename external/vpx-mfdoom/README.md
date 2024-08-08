@@ -39,7 +39,7 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
  4.	Set Up the MF DOOM Table:
     
 - Download the MF DOOM table package and unzip it.
-- Move the .vpx table file to your vpx-doom folder.
+- From the MFDOOM package Table folder, copy the .vpx table file to your vpx-doom folder.
 	
  5.	Add DMD Files:
     
