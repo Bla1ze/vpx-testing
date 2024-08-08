@@ -28,11 +28,40 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
 
 ## Instructions
 
-- Copy the contents of this repo folder to your USB drive
-- Add your personalized launcher.elf and rename it to vpx-mfdoom.elf
-- Download the MF DOOM table package and unzip it. Place the table .vpx file in your vpx-doom folder. 
-- From the MF DOOM package/DMD folder copy the MFDOOMDMD folder and place it inside your vpx-mfdoom folder.
-- In your vpx-mfdoom folder create a "pupvideos" folder, then go to the MFDOOM package, open the PupVideos folder and unzip the file it contains. Once unzipped, copy the MFDOOM folder that remains to your pupvideos folder.
-- In your vpx-mfdoom folder, create a folder named "music", from the MFDOOM package copy the MFDOOM folder and place it inside "music". Only two attract songs are included, you will need to download and install additional songs into this folder if you wish to use additional music, you can find more information about this in the original MFDOOM table download package readme file. They're not required but they do enhance the table.
-- Unzip the use_these_pup.zip and place them inside your pupvideos/MFDOOM folder. Overwrite the files if it asks.
-- RIP MF DOOM!
+ 1. Copy Files to USB Drive:
+ 
+- Copy the contents of this repository folder to your USB drive.
+	
+ 2.	Add Your Personalized Launcher:
+    
+- Place your personalized launcher.elf file on the USB drive and rename it to vpx-mfdoom.elf.
+	
+ 4.	Set Up the MF DOOM Table:
+    
+- Download the MF DOOM table package and unzip it.
+- Move the .vpx table file to your vpx-doom folder.
+	
+ 5.	Add DMD Files:
+    
+- From the MF DOOM package, navigate to the DMD folder.
+- Copy the MFDOOMDMD folder and paste it into your vpx-mfdoom folder.
+	
+ 6.	Create and Populate PupVideos Folder:
+    
+- In your vpx-mfdoom folder, create a new folder named pupvideos.
+- Open the PupVideos folder from the MF DOOM package and unzip the file it contains.
+- Copy the resulting MFDOOM folder into your pupvideos folder.
+	
+ 7.	Create and Populate Music Folder:
+    
+- In your vpx-mfdoom folder, create a folder named music.
+- Copy the MFDOOM folder from the MF DOOM package and place it inside the music folder.
+- Note: Only two attract songs are included. To add more music, download additional tracks as instructed in the original MF DOOM table package readme file. Additional songs are optional but enhance the table experience.
+	
+ 8.	Finalize PupVideos Setup:
+
+- Unzip the use_these_pup.zip file.
+- Place the unzipped files inside your pupvideos/MFDOOM folder, and overwrite any files if prompted.
+	
+ 9.	Enjoy the Game:
+-  Everything is set up! RIP MF DOOM!
