@@ -4,7 +4,7 @@
 
 Author: [VPinWorkShop](https://vpuniverse.com/profile/40692-vpinworkshop/)
 
-Tested by: Bla1ze
+Tested by: Bla1ze & dr_wraith
 
 Version: 1.1
 
