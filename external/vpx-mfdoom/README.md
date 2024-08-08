@@ -55,7 +55,7 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
  7.	Create and Populate music Folder:
     
 - In your vpx-mfdoom folder, create a folder named music.
-- Copy the MFDOOM folder from the MF DOOM package and place it inside the music folder.
+- Copy the MFDOOM folder from the MF DOOM package Music folder and place it inside the music folder you created.
 - Note: Only two attract songs are included. To add more music, download additional tracks as instructed in the original MF DOOM table package readme file. Additional songs are optional but enhance the table experience.
 	
  8.	Finalize pupvideos Setup:
