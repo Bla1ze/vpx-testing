@@ -33,6 +33,6 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
 - Download the MF DOOM table package and unzip it. Place the table .vpx file in your vpx-doom folder. 
 - From the MF DOOM package/DMD folder copy the MFDOOMDMD folder and place it inside your vpx-mfdoom folder.
 - In your vpx-mfdoom folder create a "pupvideos" folder, then go to the MFDOOM package, open the PupVideos folder and unzip the file it contains. Once unzipped, copy the MFDOOM folder that remains to your pupvideos folder.
-- In your vpx-mfdoom folder, create a folder named "music", from the MFDOOM package copy the MFDOOM folder and place it inside "music". Only two attract songs are included, you will need to download and install additional songs into this folder if you wish to use additional music, you can find more information about his in the original MFDOOM table download package readme file.
+- In your vpx-mfdoom folder, create a folder named "music", from the MFDOOM package copy the MFDOOM folder and place it inside "music". Only two attract songs are included, you will need to download and install additional songs into this folder if you wish to use additional music, you can find more information about this in the original MFDOOM table download package readme file. They're not required but they do enhance the table.
 - Unzip the use_these_pup.zip and place them inside your pupvideos/MFDOOM folder. Overwrite the files if it asks.
 - RIP MF DOOM!
