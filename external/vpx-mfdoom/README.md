@@ -46,7 +46,7 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
 - From the MF DOOM package, navigate to the DMD folder.
 - Copy the MFDOOMDMD folder and paste it into your vpx-mfdoom folder.
 	
- 6.	Create and Populate PupVideos Folder:
+ 6.	Create and Populate pupvideos Folder:
     
 - In your vpx-mfdoom folder, create a new folder named pupvideos.
 - Open the PupVideos folder from the MF DOOM package and unzip the file it contains.
