@@ -4,7 +4,7 @@
 
 Author: [Wizball](https://vpuniverse.com/profile/16604-wizball/) 
 
-Tested by: Bla1ze 
+Tested by: Bla1ze & Mar3nBu
 
 Version: 1.1
 
@@ -42,6 +42,10 @@ Minimum VPX Standalone build: 10.8.0-1983-a764013
 - Download the Futurama PuP and media pack.zip and unzip it.
 - From the Futurama PuP and media pack folder you unzipped, rename the puppack folder to pupvideos and copy it to your vpx-futurama folder.
 - From your vpx-futurama folder, unzip the use_these_pup_files.zip and place them inside the pupvideos/futurama folder, and overwrite any files if prompted.
+
+ 4.	Fire up the table:
+
+- If it crashes on the first load, just try again. Should be fine after that.
 
 “Your music’s bad and you should feel bad!” – Dr. Zoidberg 🚀
 
