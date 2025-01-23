@@ -1,6 +1,6 @@
 # Playboy (Bally 1978)
 
-![Table Preview](https://pinballnirvana.com/forums/attachments/playboy_f2-jpg.36438/)
+![Table Preview]([https://github.com/Bla1ze/vpx-images/blob/main/vpx-playboy1978.png)
 
 Author: [HSM](https://www.vpforums.org/index.php?showuser=78127)  
 
