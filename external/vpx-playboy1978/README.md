@@ -10,7 +10,7 @@ Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=1
 
 **DirectB2S**
 
-Author: HiRez
+Author: [HiRez00](https://www.vpforums.org/index.php?showuser=125278)
 
 Version: 1.0
 
