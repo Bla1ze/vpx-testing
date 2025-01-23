@@ -51,7 +51,8 @@ Sub Table1_Init
 		.SplashInfoLine			= "Playboy Bally 1978"
 		.HandleKeyboard 		= 0
 		.ShowTitle				= 0
-		.ShowDMDOnly			= 1
+		.ShowDMDOnly = 0 ' Disable showing only the DMD
+        .Hidden = 1      ' Hide the DMD window completely
 		.ShowFrame				= 0
 		.ShowTitle 				= 0
 		.Games(cGameName)
