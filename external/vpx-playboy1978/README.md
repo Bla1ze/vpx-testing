@@ -32,3 +32,4 @@ Minimum VPX Standalone build: 10.8.0-1989-a764013
 - Extract the Playboy (1978).zip to your desktop
 - Copy the Playboy VPX and directb2s files to "external\vpx-playboy1978" from the Playboy 1978 folder
 - Make sure (.vpx), (.directb2s), (.ini) and (.vbs) files are all named the same
+- Party like Hef. 👯‍♂️
