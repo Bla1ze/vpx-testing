@@ -3,7 +3,9 @@
 ![Table Preview](https://pinballnirvana.com/forums/attachments/playboy_f2-jpg.36438/)
 
 Author: [HSM](https://www.vpforums.org/index.php?showuser=78127)  
+
 Version: 1.0  
+
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=13571)
 
 **DirectB2S**
