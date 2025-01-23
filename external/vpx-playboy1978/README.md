@@ -7,10 +7,13 @@ Version: 1.0
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=13571)
 
 DirectB2S  
-Note: Included in the Mega link above
+
+Author: HiRez
+Version: 1.0
+Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=15396)
 
 ROM  
-Note: Included in the Mega link above
+Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=701)
 
 ## Status 
 
@@ -26,6 +29,3 @@ Minimum VPX Standalone build: 10.8.0-1989-a764013
 - Extract the Playboy (1978).zip to your desktop
 - Copy the Playboy VPX and directb2s files to "external\vpx-playboy1978" from the Playboy 1978 folder
 - Make sure (.vpx), (.directb2s), (.ini) and (.vbs) files are all named the same
-- Copy the playboy78 folder to "external\vpx-playboy1978\music" folder (you may need to create the music folder)
-- Copy the playboyb.zip from "Playboy (1978)\Playboy-ROM+NVRAM" to "external\vpx-playboy1978\pinmame\roms"
-- No other files from the Playboy 1978 folder are needed
