@@ -6,13 +6,16 @@ Author: [HSM](https://www.vpforums.org/index.php?showuser=78127)
 Version: 1.0  
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=13571)
 
-DirectB2S  
+**DirectB2S**
 
 Author: HiRez
+
 Version: 1.0
+
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=15396)
 
-ROM  
+**ROM**
+
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=701)
 
 ## Status 
