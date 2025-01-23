@@ -2,9 +2,9 @@
 
 ![Table Preview](https://pinballnirvana.com/forums/attachments/playboy_f2-jpg.36438/)
 
-Author: [HiRez00](https://vpuniverse.com/profile/19941-hirez00/)  
-Version: 4.0  
-Download: [Mega](https://mega.nz/file/QZJCiaZL#iXqYKeQwh_ZHXCe1Pe_IPO8IpbNkzujciLziiKce9WU)
+Author: [HSM](https://www.vpforums.org/index.php?showuser=78127)  
+Version: 1.0  
+Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=13571)
 
 DirectB2S  
 Note: Included in the Mega link above
@@ -18,7 +18,7 @@ Minimum VPX Standalone build: 10.8.0-1989-a764013
 
 | Playfield | Controls | Backglass | DMD | ROM Required | FPS | 
 |-----------|----------|-----------|-----|--------------|-----|
-| :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | 45 |
+| :white_check_mark: | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: | 60 |
 
 ## Instructions
 
