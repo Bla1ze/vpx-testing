@@ -9,7 +9,9 @@ Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=1
 **DirectB2S**
 
 Author: HiRez
+
 Version: 1.0
+
 Download: [VPForums](https://www.vpforums.org/index.php?app=downloads&showfile=15396)
 
 **ROM**
